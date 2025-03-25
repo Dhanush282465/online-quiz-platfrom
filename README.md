@@ -1,4 +1,4 @@
-# online-quiz-platfrom
+
 # Online Quiz Platform
 
 This is a simple online quiz platform built using HTML, CSS, and JavaScript. The quiz consists of multiple-choice questions, a countdown timer, and an automatic scoring system.
